@@ -1,1 +1,1 @@
-# Cardiac_Segmentation
+# Cardiac Segmentation
